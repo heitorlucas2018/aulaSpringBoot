@@ -1,2 +1,0 @@
-# aulaSpringBoot
-Created with CodeSandbox
