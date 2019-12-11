@@ -26,3 +26,14 @@
          ├── Avaliação
          ├── Turma
          └── Curso
+
+### Struct Flow
+
+```mermaid
+graph TD;
+  PESSOA-->USUARIO;
+  USUARIO-->DIRETOR;
+  USUARIO-->COORDENADOR;
+  USUARIO-->PROFESSOR;
+  USUARIO-->ALUNO;
+```
