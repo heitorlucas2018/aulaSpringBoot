@@ -4,7 +4,7 @@
 
        Aprendizado desenvolvimento Web com SpringBoot.
 
-## Estrutura
+## Estrutura View
 
     ├── Home/DashBoard
     |
