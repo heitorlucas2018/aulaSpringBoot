@@ -3,22 +3,28 @@
     top: 0;
     bottom: 0;
     left: 0;
-    z-index: 100;
-    padding: 10px 0 0;
+    z-index: 1;
+    padding: 0px 0 0;
     box-shadow: 2px 1px 6px rgba(0, 0, 0, 0.3);
 }
 
 .nav-link{
   color: var(--color-base);
+  margin: 3px 0;
 }
 .nav-item>.active,
 .nav-item:hover,
 .nav-item:hover  .nav-link {
   background: var(--color-base);
   color: #fff;
+  border-radius: 5px;
+  box-shadow: 3px 3px 6px rgba(136, 136, 136, 0.6);
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
 }
 .nav-item > .collapse .nav-link{
-  background: #e8eaec;
+  background: #5ebda7;
+  color: #fff;
 }
 .nav-item:hover > .collapse .nav-link{
   background: #5ebda7;
