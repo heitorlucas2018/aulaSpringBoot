@@ -29,11 +29,8 @@
 
 ### Struct Flow
 
-```mermaid
-graph TD;
-  PESSOA-->USUARIO;
-  USUARIO-->DIRETOR;
-  USUARIO-->COORDENADOR;
-  USUARIO-->PROFESSOR;
-  USUARIO-->ALUNO;
-```
+![alt text](./extras/img/01.svg)
+
+#### Fonts
+
+* [Mermaid](https://mermaid-js.github.io/mermaid/#/)
