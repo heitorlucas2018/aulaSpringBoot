@@ -4,6 +4,7 @@
 
        Aprendizado desenvolvimento Web com SpringBoot.
 
+
 ## Estrutura View
 
     ├── Home/DashBoard
@@ -22,10 +23,10 @@
     │         ├── View::Tumas/Notas/avaliações/Alunos/Professor/
     │         └── Create::Alunos/Turmas/Professor/
     |
-    └── Disciplina
-         ├── Avaliação
-         ├── Turma
-         └── Curso
+    ├── Disciplina
+    |    └── Curso
+    ├── Avaliação
+    └── Turma
 
 ### Struct Flow
 
